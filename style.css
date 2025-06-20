@@ -7,6 +7,12 @@ body {
     padding: 0 10px;
 }
 
+@media (prefers-color-scheme: dark) {
+    body {
+        color: #eee;
+    }
+}
+
 h1,
 h2,
 h3 {
